@@ -238,3 +238,6 @@ This repository serves as the official landing page for Free Video Flip and Rota
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Free Video Flip and Rotate today!**
+
+---
+**Last updated:** 2026-09-09 16:11:16 UTC
